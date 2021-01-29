@@ -5,7 +5,7 @@ import android.view.Gravity
 import android.widget.Toast
 
 object Toaster {
-    fun ToastMessage(
+    fun toastMessage(
             context: Context,
             message: String,
             gravity: Int? = null,
